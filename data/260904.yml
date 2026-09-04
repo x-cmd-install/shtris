@@ -7,7 +7,7 @@ about:
   head: 30439ad
   archived: false
   latestVersion: v3.0.0
-  collectedAt: 2026-09-04T19:51:31Z
+  collectedAt: 2026-09-04T20:49:14Z
 timeline:
   created: 2020-05-21
   lastCommit: 2022-04-02
@@ -80,5 +80,23 @@ total:
   openIssue: 1
   commit: 336
 ---
+path: /home/runner/.x-repo/github.com/contentsviewer/shtris
+collectedAt: 2026-09-04T20:49:15Z
+loc:
+  Sh:
+    code: 1678
+    comments: 614
+    blanks: 369
+    files: 1
+  Markdown:
+    code: 0
+    comments: 60
+    blanks: 22
+    files: 1
+total:
+  code: 1678
+  comments: 674
+  blanks: 391
+  files: 2
 ---
 
